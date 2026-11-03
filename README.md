@@ -288,9 +288,7 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/ndarray/dtypes]: https://github.com/stdlib-js/ndarray-dtypes
 
-[@stdlib/ndarray/orders]: https://github.com/stdlib-js/ndarray-orders
-
-[@stdlib/ndarray/index-modes]: https://github.com/stdlib-js/ndarray-index-modes
+[@stdlib/array/buffer]: https://github.com/stdlib-js/array-buffer
 
 <!-- <related-links> -->
 
